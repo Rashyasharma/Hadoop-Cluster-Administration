@@ -1,0 +1,10 @@
+[nn]
+192.168.43.101 ansible_ssh_user=root ansible_ssh_pass=redhat
+[dn]
+192.168.43.107 ansible_ssh_user=root ansible_ssh_pass=redhat
+192.168.43.108 ansible_ssh_user=root ansible_ssh_pass=redhat
+[jt]
+192.168.43.101 ansible_ssh_user=root ansible_ssh_pass=redhat
+[tt]
+192.168.43.107 ansible_ssh_user=root ansible_ssh_pass=redhat
+192.168.43.108 ansible_ssh_user=root ansible_ssh_pass=redhat

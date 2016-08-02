@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<script>
+
+function handle()
+{
+var file=document.getElementById("myf").files[0];
+location.href="http://192.168.43.101/cgi-bin/upload.py?data="+file.name;
+}
+</script>
+</head>
+<body>
+
+<input type="file" id="myf" onchange="handle(this.files)" style="font-size:40px;position:absolute;top:40%;left:40%;">
+
+
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <link rel="stylesheet" href="css/semantic.css">
+  <link rel="stylesheet" href="css/style.css">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body >
+<div class="ui grey three item inverted menu">
+  <a class="active item" href="index.html">
+    Home
+  </a>
+  <a class="item">
+    What's BIG DATA ?
+  </a>
+  <a class="item" href="http://apache.hadoop.org">
+    About Hadoop
+  </a>
+</div>
+
+<div class="top">
+<img id="hadooplogo" src="images/logo.jpg">
+<img id="hadoop" src="images/hadoop.png">
+</div>
+
+<div class="top1">
+<a href="guided_setup.html"><button class="ui blue button" >Guided Setup</button></a>
+<button class="ui blue button">Automatic Setup</button>
+<button class="ui blue button">Expert Mode Setup</button>
+</div>
+ 
+
+ 
+
+
+
+
+
+
+  
+ </body>
+</html>
